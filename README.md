@@ -18,3 +18,15 @@ A simple web-based painting application built with React.js and styled with Tail
 
 ![React Painting App Screenshot](screenshot.png)
 
+## Technologies Used
+
+- React.js
+- Tailwind CSS
+- HTML5 Canvas API
+
+## Future Enhancements
+
+- Add more tools (eraser, shapes, text)
+- Layer support
+- Image import/export in different formats
+- Touch support for mobile devices
